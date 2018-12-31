@@ -7,7 +7,7 @@ The list URL: https://raw.githubusercontent.com/Groxx/adblock_annoyances/master/
 
 On mobile:
 - Install [Firefox](https://www.mozilla.org/en-US/firefox/mobile/), it can use extensions.
-- Install an adblock-like plugin.  I personally use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) but any should work.
+- Install an adblock-like plugin.  I personally use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (for no real reason) but any should work.
 - Tap on the "...", go to Add-ons -> that ad blocker -> options.
 - Add the URL above to the custom filters list.
   - In uBlock Origin, go to the "Filter lists" tab, and scroll to the bottom.  There's a "Custom" section.  Tap the tiny "Import..." box and paste in the URL above.
