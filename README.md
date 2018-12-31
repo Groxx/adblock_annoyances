@@ -6,11 +6,13 @@ It's probably more mobile-oriented since space is at a premium, thus ads are mor
 The list URL: https://raw.githubusercontent.com/Groxx/adblock_annoyances/master/filter.txt
 
 On mobile:
-- Install Firefox for Android.
-- Install an adblock-like plugin.  I personally use uBlock Origin.
-- Tap on the "...", go to Add-ons -> that adblocker -> options.
+- Install [Firefox](https://www.mozilla.org/en-US/firefox/mobile/), it can use extensions.
+- Install an adblock-like plugin.  I personally use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) but any should work.
+- Tap on the "...", go to Add-ons -> that ad blocker -> options.
 - Add the URL above to the custom filters list.
   - In uBlock Origin, go to the "Filter lists" tab, and scroll to the bottom.  There's a "Custom" section.  Tap the tiny "Import..." box and paste in the URL above.
+  - ![screenshot](https://raw.githubusercontent.com/Groxx/adblock_annoyances/master/ublock%20origin%20import.png)
+
 On desktop (basically any browser):
 - Install an adblock-like plugin.  Any should work, as long as it lets you use custom filter lists.
 - Right-click the extension's icon in your browser's toolbar, choose options / manage / whatever sounds relevant.
