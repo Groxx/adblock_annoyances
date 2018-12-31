@@ -1,0 +1,12 @@
+! Version: 201812311141
+! Title: Groxx's annoyances
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/groxx/adblock_annoyances
+! ----------------------------------------------------------------------------- !
+
+
+! ----------------------------------------------------------------------------- !
+! reddit trash
+! ----------------------------------------------------------------------------- !
+! hides the bottom "use our app" banner
+reddit.com##.SnackBar:-abp-has(span:-abp-contains(app))
