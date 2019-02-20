@@ -1,4 +1,4 @@
-! Version: 201812311141
+! Version: 201902191717
 ! Title: Groxx's annoyances
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/groxx/adblock_annoyances
