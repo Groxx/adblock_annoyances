@@ -10,3 +10,10 @@
 ! ----------------------------------------------------------------------------- !
 ! hides the bottom "use our app" banner
 reddit.com##.SnackBar:-abp-has(span:-abp-contains(app))
+
+
+! ----------------------------------------------------------------------------- !
+! twitter trash
+! ----------------------------------------------------------------------------- !
+! hides the "you may have missed" and "who to follow" crud and hopefully future ones too
+twitter.com##.stream-item.DismissibleModule
